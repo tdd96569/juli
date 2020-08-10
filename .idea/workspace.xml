@@ -4,6 +4,7 @@
     <list default="true" id="18b96fed-bfaf-4ab4-8d34-6bed2ccb1626" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list default="true" id="18b96fed-bfaf-4ab4-8d34-6bed2ccb1626" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/service/target/" />
@@ -118,6 +119,7 @@
         </entry>
       </file>
     </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -273,6 +275,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service-base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="juli" type="b2602c69:ProjectViewProjectNode" />
@@ -434,6 +437,7 @@
       <workItem from="1596438686871" duration="12896000" />
       <workItem from="1596508584841" duration="16676000" />
       <workItem from="1597038016176" duration="519000" />
+      <workItem from="1597038016176" duration="801000" />
     </task>
     <servers />
   </component>
@@ -447,6 +451,7 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="39175000" />
+    <option name="totallyTimeSpent" value="39457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -470,6 +475,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45508102" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.539028" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.48011783" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
